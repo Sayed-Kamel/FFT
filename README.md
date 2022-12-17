@@ -1,2 +1,1 @@
-# FFT
-32-FFT
+Design 32-point FFT circuity using Radix-2 algorithm
